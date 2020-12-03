@@ -21,8 +21,9 @@ I'm no longer maintaining this project.
 
 ## Installing (Tested on Kali Linux, Ubuntu)
 
-```
 ### Requirements
+
+,,,
 
 -   Python _v3.x.x_
 -   ~~Kali Linux 2.0~~
