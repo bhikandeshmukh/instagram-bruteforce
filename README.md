@@ -1,4 +1,4 @@
-<p align="center"><a><img title="Built With Love" src="http://ForTheBadge.com/images/badges/built-by-developers.svg"> </a>
+<p align="center"><a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg"> </a>
 
 <p align="center">
 	<img src="res/instagram.png" width="600px" hight="100px">
@@ -146,7 +146,7 @@ C:\Users\aladdin\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 0
 
 ## Legal Disclaimer:
 
-Usage of WhatsApp-Bulk-Message-Sender for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+Usage of the tool for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
 
 <p align="center">
 <h4 align="center">♨️ FOLLOW ♨️<h4 align="center">
